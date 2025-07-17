@@ -14,7 +14,7 @@ Dataset oficial disponível em:
 ## Dependências
 - pandas
 - matplotlib
-- geopandas
+- folium
 
 ## Instalação
 ```bash
